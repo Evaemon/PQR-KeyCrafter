@@ -18,3 +18,15 @@ Evaemon expands this concept into a broader post-quantum authentication and SSH 
 PQR-KeyCrafter is a tool for generating post-quantum cryptographic keys using state-of-the-art **Open Quantum Safe (OQS)** algorithms.
 
 The project explores quantum-safe security primitives and key generation mechanisms designed to prepare systems for the **post-quantum cryptography era**.
+
+
+## 📜 License
+
+Proprietary - All Rights Reserved
+
+This project is licensed under the Trednets Enterprise Software License (TESL) v1.2.  
+All rights, title, and interest in the software remain exclusively with Trednets B.V.
+
+See the full license terms at: https://trednets.com/license
+
+Third-party components and dependencies remain subject to their respective original license terms.
