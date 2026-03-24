@@ -27,6 +27,7 @@ Proprietary - All Rights Reserved
 This project is licensed under the Trednets Enterprise Software License (TESL) v1.2.  
 All rights, title, and interest in the software remain exclusively with Trednets B.V.
 
-See the full license terms at: https://trednets.com/license
+See the included `LICENSE` file for the repository license notice.  
+For the full and current license text, visit: https://trednets.com/license
 
 Third-party components and dependencies remain subject to their respective original license terms.
